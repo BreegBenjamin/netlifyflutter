@@ -1,0 +1,34 @@
+[
+    {
+        "UrlImage":"https://m.media-amazon.com/images/I/41JnDgRQjHL.jpg",
+        "Stars": 4,
+        "BookTitle" : "El vals de las hadas malditas",
+        "WriterName" :"Gabriel Sanchez García",
+        "BookDescription":"Jillian es una Hija del Velo, nacida durante una noche maldita que cambió el mundo de Éterdar para siempre. Arrancada de su familia y criada para convertirse en desveladora, jamás ha podido alejarse de la torre del Westeun. Pero su entrenamiento ha llegado a su fin, y es la hora de resolver su primer caso y demostrar su valía.",
+        "IsFavorite":false
+    },
+    {
+        "UrlImage":"https://m.media-amazon.com/images/I/51Vjb2qJwzL._SY346_.jpg",
+        "Stars": 4,
+        "BookTitle" : "Harry Potter and the Goblet of Fire",
+        "WriterName" :"J.K. Rowling",
+        "BookDescription":"he Triwizard Tournament is to be held at Hogwarts. Only wizards who are over seventeen are allowed to enter - but that doesn't stop Harry dreaming that he will win the competition",
+        "IsFavorite":true
+    },
+    {
+        "UrlImage":"https://m.media-amazon.com/images/I/41ooQCCWw5L._SY346_.jpg",
+        "Stars": 2,
+        "BookTitle" : "El Alquimista",
+        "WriterName" :"Paulo Coelho",
+        "BookDescription":"Ésta es la historia de Santiago, un joven pastor andaluz que viaja desde su tierra natal hacia el desierto egipcio en busca de un tesoro oculto en las pirámides. Nadie sabe lo que contiene, ni si Santiago será capaz de superar los obstáculos del camino.",
+        "IsFavorite":false
+    },
+    {
+        "UrlImage":"https://m.media-amazon.com/images/I/51fffX8XuVL.jpg",
+        "Stars": 5,
+        "BookTitle" : "El principito",
+        "WriterName" :"Antoine de Saint-Exupery",
+        "BookDescription":"Pido perdón a los niños por haber dedicado este libro a una persona mayor. Tengo una seria excusa: esta persona mayor es el mejor amigo que tengo en el mundo. Pero tengo otra excusa: esta persona mayor es capaz de comprenderlo todo, incluso los libros para niños. ",
+        "IsFavorite":true
+    }
+]
